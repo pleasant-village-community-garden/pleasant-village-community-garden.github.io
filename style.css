@@ -385,12 +385,6 @@ div.nav-placeholder{
 
 
 
-
-
-
-
-
-
 /*TABLETS*/
 @media (min-width: 600px) and (max-width: 900px){
     body{
@@ -505,7 +499,7 @@ ul.nav-links{
     padding: 0;
 }
 ul.nav-links > li a{
-    font-size: 0.8rem;
+    font-size: 0.6rem;
 }
 
 
