@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html lang="en">
 <head>
     <title>Home | Pleasent Village Community Garden</title>
     <link rel="icon" type="image/x-icon" href="https://postimg.cc/Nywc48KV">
@@ -15,28 +15,39 @@
         <div class="header-container">
             <div class="nav">
                 <ul class="nav-links">
-                    <li><a data-i18n="home" class="active" href="index.html">Home</a></li>
+                    <li><a data-i18n="home" class="active" href="index.html"></a></li>
                     <li class="dropDown">
-                        <a data-i18n="about" class="dropBtn" href="javascript:void(0)">About</a>
+                        <a data-i18n="about" class="dropBtn" href="javascript:void(0)"></a>
                         <div class="dropDown-content">
                             <a data-i18n="history" href="history.html">History</a>
-                            <a data-i18n="garden-photos" href="garden-photos.html">Garden Photos</a>
-                            <a data-i18n="partners-and-sponsors" href="partners.html">Partners & Sponsors</a>
+                            <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                            <a data-i18n="partners-and-sponsors" href="partners.html"></a>
                         </div>
                     </li>
-                        <li><a data-i18n="compost" href="compost.html">Compost</a></li>
+                        <li><a data-i18n="compost" href="compost.html"></a></li>
                             <li class="dropDown">
-                                <a data-i18n="garden-information" class="dropBtn" href="javascript:void(0)" href="#garden-information">Garden Information</a>
+                                <a data-i18n="garden-information" class="dropBtn" href="#garden-information"></a>
                                 <div class="dropDown-content">
-                                    <a data-i18n="hours" href="hours.html">Hours</a>
-                                    <a data-i18n="events" href="events.html">Events</a>
-                                    <a data-i18n="garden-rules" href="rules.html">Garden Rules</a>
-                                    <a data-i18n="officers" href="officers.html">Garden Officers</a>
-                                    <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html">Garden Member Rules & Requirements</a>
-                                    <a data-i18n="responsibilities" href="garden-member-responsibilities.html">Garden Member Responsibilities</a>
+                                    <a data-i18n="hours" href="hours.html"></a>
+                                    <a data-i18n="events" href="events.html"></a>
+                                    <a data-i18n="garden-rules" href="rules.html"></a>
+                                    <a data-i18n="officers" href="officers.html"></a>
+                                    <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                                    <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                                 </div>   
                             </li>
-                        <li><a href="membership.html">Membership</a></li>
+                        <li><a data-i18n="membership" href="membership.html"></a></li>
+                        
+                        <!--
+                        <li class="dropDown">
+                            <a data-i18n="language" class="dropBtn" href="#language"></a>
+                            <div class="dropDown-content">
+                                <a href="index.html" onclick="changeLanguage('en')">English</a>
+                                <a href="index.html" onclick="changeLanguage('es')">Español</a>
+                            </div>
+                        </li>
+                        -->
+                        
                     </ul>
                 </div>
             </div>
@@ -57,15 +68,17 @@
         <main>
         <section class="News">
             <div class="news-container">
-                <h1>What's New?</h1>
+                <h1 data-i18n="whats-new"></h1>
                 <div class="news-story">
                     <article>
                         <div class="news-img">
-                            <img src="https://i.imgur.com/7AyZTU4.jpeg" alt="">
+                            <img src="https://i.postimg.cc/mr940WTt/Compost-Party-Flyer1.jpg" alt="">
                         </div>
                         <div class="article-text">
-                            <h2>Next Meeting</h2>
-                            <p>Date: Tuesday, July 15th at 6:30pm</p>
+                            <h2>Compost Thank You Party</h2>
+                            <h3>w/ Sustainable Cooking Demo & Live Music</h3>
+                            <p>The compost team has been able to continue the compost operation for several years. We'd like to show our gratitude to the garden members, volunteers, neighbors and the compost community. It's gonna be fun with demo cooking and music! Please come join us!</p>
+                            <p>Saturday, September 27th, 2-5pm</p>
                             <p>Location: The Garden</p> 
                         </div>
                     </article>
@@ -93,20 +106,21 @@
                     <br>-->
                 </div>
                 <li>
-                    <a href="news.html">More News</a>
+                    <a data-i18n="more-news" href="news-story1.html"></a> <!--link to news.html when more than one news story-->
                 </li>
             </div>
         </section>
 
         <br>
 
+        <!--
         <section class="Events-container">
             <div class="Events">
                 <h1>Upcoming Events</h1>
                 <h2>There are currently no upcoming events.</h2>
             </div>
         </section>
-
+        -->
 
         <!--
         <div class="slideshow-container">
@@ -137,12 +151,12 @@
         <div class="footer">
             <section class="footer-text">
             <article class="sect1">
-                <h3>Address</h3>
+                <h3 data-i18n="address"></h3>
                 <p>342 Pleasant Ave.</p>
                 <p>East Harlem, New York</p>
                 <p>NY 10035</p>
                     <div class="contact-container">
-                        <h3>Contact</h3>
+                        <h3 data-i18n="contact"></h3>
                         <div class="contact-container-top">
                             <div class="svg-icon-email">
                                 <svg class="email" viewbox="0 0 66 66" width="30" height="36">
@@ -171,31 +185,31 @@
                             <p>@pleasantvillagecommunitygarden</p>
                         </div>
                     </div>
-                <h3>Open Hours</h3>
-                <p>Saturday & Sunday ... 1pm - 6pm</p>
+                <h3 data-i18n="open-hours"></h3>
+                <p data-i18n="open-hrs"></p>
             </article>
             <article class="sect2">
-                <h3>Navigation</h3>
+                <h3 data-i18n="nav"></h3>
                 <ul class="footer-nav">
                 <li>
-                    <a href="history.html">History</a>
-                    <a href="garden-photos.html">Photos</a>
-                    <a href="partners.html">Partners & Sponsors</a>
-                    <a href="compost.html">Compost</a>
-                    <a href="membership.html">Membership</a>
+                    <a data-i18n="history" href="history.html"></a>
+                    <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                    <a data-i18n="partners-and-sponsors" href="partners.html"></a>
+                    <a data-i18n="compost" href="compost.html"></a>
+                    <a data-i18n="membership" href="membership.html"></a>
                 </li>
                 </ul>
                 <div class="garden-info-h3">
-                    <h3>Garden Information</h3>
+                    <h3 data-i18n="garden-information"></h3>
                 </div>
                 <ul class="footer-nav">
                     <li>
-                        <a href="events.html">Events</a>
-                        <a href="hours.html">Hours</a>
-                        <a href="rules.html">Garden Rules</a>
-                        <a href="officers.html">Garden Officers</a>
-                        <a href="garden-member-rules-and-requirements.html">Member Rules & Requirements</a>
-                        <a href="garden-member-responsibilities.html">Member Responsibilities</a>
+                        <a data-i18n="events" href="events.html"></a>
+                        <a data-i18n="hours" href="hours.html"></a>
+                        <a data-i18n="garden-rules" href="rules.html"></a>
+                        <a data-i18n="officers" href="officers.html"></a>
+                        <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                        <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                     </li>
                 </ul>
             </article>
@@ -318,10 +332,12 @@
             text-align: left;
 
             padding-top: 4vw;
+            padding-bottom: 4vw;
+            padding-right: 2rem;
         }
         .News > .news-container > .news-story > article > .news-img{
             width: 32%;
-            height: 410px;
+            height: 500px;
             float: left;
         }
         .News > .news-container > .news-story > article > .news-img2{
@@ -444,7 +460,6 @@
     }
 </style>
 
-<!--
+
 <script src="es-script.js"></script>
 
--->
