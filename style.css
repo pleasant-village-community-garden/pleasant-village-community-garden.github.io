@@ -18,6 +18,9 @@ p, h2, a{
     font-family: Verdana;
     line-height: 1.5;
 }
+a{
+    text-decoration: none;
+}
 
 
 
@@ -558,4 +561,5 @@ div.footer > section.footer-text > article.sect1 > h3{
     font-weight: 800;
 }
 }
+
 
