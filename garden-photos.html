@@ -15,28 +15,37 @@
         <div class="header-container">
             <div class="nav">
                 <ul class="nav-links">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a data-i18n="home" class="active" href="index.html"></a></li>
                     <li class="dropDown">
-                        <a class="dropBtn, active" href="javascript:void(0)">About</a>
+                        <a data-i18n="about" class="dropBtn" href="javascript:void(0)"></a>
                         <div class="dropDown-content">
-                            <a href="history.html">History</a>
-                            <a href="garden-photos.html">Garden Photos</a>
-                            <a href="partners.html">Partners & Sponsors</a>
+                            <a data-i18n="history" href="history.html"></a>
+                            <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                            <a data-i18n="partners-and-sponsors" href="partners.html"></a>
                         </div>
                     </li>
-                        <li><a href="compost.html">Compost</a></li>
+                        <li><a data-i18n="compost" href="compost.html"></a></li>
                             <li class="dropDown">
-                                <a class="dropBtn" href="javascript:void(0)" href="#garden-information">Garden Information</a>
+                                <a data-i18n="garden-information" class="dropBtn" href="#garden-information"></a>
                                 <div class="dropDown-content">
-                                    <a href="hours.html">Hours</a>
-                                    <a href="events.html">Events</a>
-                                    <a href="rules.html">Garden Rules</a>
-                                    <a href="officers.html">Garden Officers</a>
-                                    <a href="garden-member-rules-and-requirements.html">Garden Member Rules & Requirements</a>
-                                    <a href="garden-member-responsibilities.html">Garden Member Responsibilities</a>
+                                    <a data-i18n="hours" href="hours.html"></a>
+                                    <a data-i18n="events" href="events.html"></a>
+                                    <a data-i18n="garden-rules" href="rules.html"></a>
+                                    <a data-i18n="officers" href="officers.html"></a>
+                                    <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                                    <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                                 </div>   
                             </li>
-                        <li><a href="membership.html">Membership</a></li>
+                        <li><a data-i18n="membership" href="membership.html"></a></li>
+                        
+                        <li class="dropDown">
+                            <a data-i18n="language" class="dropBtn" href="#language"></a>
+                            <div class="dropDown-content">
+                                <a onclick="changeLanguage('en')">English</a>
+                                <a onclick="changeLanguage('es')">Español</a>
+                            </div>
+                        </li>
+                        
                     </ul>
                 </div>
         </div>
@@ -55,7 +64,7 @@
 
         <main>
             <div class="garden-photos">
-                <h1>Garden Photos</h1>
+                <h1 data-i18n="garden-photos"></h1>
             </div>
             <div class="gallery">
                 <a target="_blank" href="https://i.postimg.cc/G2DQgQDz/IMG-3142.avif">
@@ -128,31 +137,31 @@
                             <p>@pleasantvillagecommunitygarden</p>
                         </div>
                     </div>
-                <h3>Open Hours</h3>
-                <p>Saturday & Sunday ... 1pm - 6pm</p>
+                <h3 data-i18n="open-hours"></h3>
+                <p data-i18n="open-hrs"></p>
             </article>
             <article class="sect2">
-                <h3>Navigation</h3>
+                <h3 data-i18n="nav"></h3>
                 <ul class="footer-nav">
                 <li>
-                    <a href="history.html">History</a>
-                    <a href="garden-photos.html">Photos</a>
-                    <a href="partners.html">Partners & Sponsors</a>
-                    <a href="compost.html">Compost</a>
-                    <a href="membership.html">Membership</a>
+                    <a data-i18n="history" href="history.html"></a>
+                    <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                    <a data-i18n="partners-and-sponsors" href="partners.html"></a>
+                    <a data-i18n="compost" href="compost.html"></a>
+                    <a data-i18n="membership" href="membership.html"></a>
                 </li>
                 </ul>
                 <div class="garden-info-h3">
-                    <h3>Garden Information</h3>
+                    <h3 data-i18n="garden-information"></h3>
                 </div>
                 <ul class="footer-nav">
                     <li>
-                        <a href="events.html">Events</a>
-                        <a href="hours.html">Hours</a>
-                        <a href="rules.html">Garden Rules</a>
-                        <a href="officers.html">Garden Officers</a>
-                        <a href="garden-member-rules-and-requirements.html">Member Rules & Requirements</a>
-                        <a href="garden-member-responsibilities.html">Member Responsibilities</a>
+                        <a data-i18n="events" href="events.html"></a>
+                        <a data-i18n="hours" href="hours.html"></a>
+                        <a data-i18n="garden-rules" href="rules.html"></a>
+                        <a data-i18n="officers" href="officers.html"></a>
+                        <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                        <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                     </li>
                 </ul>
             </article>
@@ -163,6 +172,8 @@
     </div>
 </body>
 </html>
+
+<script src="es-script.js"></script>
 
 <style>
 
@@ -254,3 +265,4 @@
     }
 
 </style>
+

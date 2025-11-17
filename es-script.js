@@ -1,7 +1,3 @@
-//////////////////////////////////////////////
-// CODE FROM nohaelgendy GITHUB  en-ar-demo //
-//////////////////////////////////////////////
-
 // Function to fetch language data
 async function fetchLanguageData(lang) {
     const response = await fetch(`languages/${lang}.json`); // SET PATH
@@ -10,7 +6,7 @@ async function fetchLanguageData(lang) {
 
 function setLanguagePreference(lang) {
     localStorage.setItem('language', lang);
-    location.reload();
+    //location.reload();
 }
 
 // updates all 'data-il8n' content with translation
@@ -32,7 +28,17 @@ async function changeLanguage(lang) {
 
 // Call updateContent() on page load
 window.addEventListener("DOMContentLoaded", async () => {
-  const userPreferredLanguage = localStorage.getItem("language") || "en";
-  const langData = await fetchLanguageData(userPreferredLanguage);
+  const preferredLanguage = localStorage.getItem("language") || "en";
+  const langData = await fetchLanguageData(preferredLanguage);
   updateContent(langData);
 });
+
+
+/* Make language persistant across pages */
+function languageCheck(){
+    let preferredLanguage = localStorage.getItem("language");
+    if(language == "es"){
+        changeLanguage(es);
+    }
+};
+window.onload = languageCheck;

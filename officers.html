@@ -15,28 +15,37 @@
         <div class="header-container">
             <div class="nav">
                 <ul class="nav-links">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a data-i18n="home" class="active" href="index.html"></a></li>
                     <li class="dropDown">
-                        <a class="dropBtn" href="javascript:void(0)">About</a>
+                        <a data-i18n="about" class="dropBtn" href="javascript:void(0)"></a>
                         <div class="dropDown-content">
-                            <a href="history.html">History</a>
-                            <a href="garden-photos.html">Garden Photos</a>
-                            <a href="partners.html">Partners & Sponsors</a>
+                            <a data-i18n="history" href="history.html"></a>
+                            <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                            <a data-i18n="partners-and-sponsors" href="partners.html"></a>
                         </div>
                     </li>
-                        <li><a href="compost.html">Compost</a></li>
+                        <li><a data-i18n="compost" href="compost.html"></a></li>
                             <li class="dropDown">
-                                <a class="dropBtn, active" href="javascript:void(0)" href="#garden-information">Garden Information</a>
+                                <a data-i18n="garden-information" class="dropBtn" href="#garden-information"></a>
                                 <div class="dropDown-content">
-                                    <a href="hours.html">Hours</a>
-                                    <a href="events.html">Events</a>
-                                    <a href="rules.html">Garden Rules</a>
-                                    <a href="officers.html">Garden Officers</a>
-                                    <a href="garden-member-rules-and-requirements.html">Garden Member Rules & Requirements</a>
-                                    <a href="garden-member-responsibilities.html">Garden Member Responsibilities</a>
+                                    <a data-i18n="hours" href="hours.html"></a>
+                                    <a data-i18n="events" href="events.html"></a>
+                                    <a data-i18n="garden-rules" href="rules.html"></a>
+                                    <a data-i18n="officers" href="officers.html"></a>
+                                    <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                                    <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                                 </div>   
                             </li>
-                        <li><a href="membership.html">Membership</a></li>
+                        <li><a data-i18n="membership" href="membership.html"></a></li>
+                        
+                        <li class="dropDown">
+                            <a data-i18n="language" class="dropBtn" href="#language"></a>
+                            <div class="dropDown-content">
+                                <a onclick="changeLanguage('en')">English</a>
+                                <a onclick="changeLanguage('es')">Español</a>
+                            </div>
+                        </li>
+                        
                     </ul>
                 </div>
         </div>
@@ -55,44 +64,44 @@
 
         <main>
             <div class="officers">
-                <h1>Garden Officers</h1>
-                <h2>Current</h2>
-                <p>President - Kim Yim (pleasantvillagegarden@gmail.com)</p>
-                <p>Vice President - Luis Santiago</p>
-                <p>Treasurer - Gail Felix</p>
-                <p>Secretary - Tammy Rodriguez</p>
+                <h1 data-i18n="garden-officers"></h1>
+                <h2 data-i18n="current"></h2>
+                <p data-i18n="president-current"></p>
+                <p data-i18n="vice-current"></p>
+                <p data-i18n="treasure-current"></p>
+                <p data-i18n="sec-current"></p>
                 <p></p>
 
-                <h1>Past Garden Officers</h1>
+                <h1 data-i18n="past-garden-officers"></h1>
                 <h2>2020 - 2025</h2>
-                <p>President - Kim Yim</p>
-                <p>Vice President - Carlos Melendez</p>
-                <p>Treasurer - Alicia Koledin</p>
-                <p>Secretary - Ursula Monaghan</p>
+                <p data-i18n="president2020"></p>
+                <p data-i18n="vice2020"></p>
+                <p data-i18n="treasure2020"></p>
+                <p data-i18n="sec2020"></p>
 
                 <h2>2017 - 2020</h2>
-                <p>President - Chris Johnson</p>
-                <p>Vice President - Carlos Melendez</p>
-                <p>Treasurer - Cirilo Dolores</p>
-                <p>Secretary - Em Rubey (replaced Liz Chae)</p>
+                <p data-i18n="president2017"></p>
+                <p data-i18n="vice2017"></p>
+                <p data-i18n="treasure2017"></p>
+                <p data-i18n="sec2017"></p>
 
                 <h2>2014 - 2017</h2>
-                <p>President - Katie Benn</p>
-                <p>Vice President - Carlos Melendez</p>
-                <p>Treasurer - Nick Baldwin</p>
-                <p>Secretary - Carrie Tracy</p>
+                <p data-i18n="president2014"></p>
+                <p data-i18n="vice2014"></p>
+                <p data-i18n="treasure2014"></p>
+                <p data-i18n="sec2014"></p>
 
                 <h2>2010 - 2014</h2>
-                <p>President - Christine Johnson</p>
-                <p>Vice President - Carlos Melendez</p>
-                <p>Treasurer - Vanessa Schweitzer (until 2013)</p>
-                <p>Secretary - Nancy Lee (until 2013)</p>
+                <p data-i18n="president2010"></p>
+                <p data-i18n="vice2010"></p>
+                <p data-i18n="treasure2010"></p>
+                <p data-i18n="sec2010"></p>
 
                 <h2>1989 - 2014</h2>
-                <p>President - Margaret McQuillar</p>
-                <p>Vice President - Carlos Melendez</p>
-                <p>Treasurer - Mary Young</p>
-                <p>Secretary - Nancy Lee</p>
+                <p data-i18n="president1989"></p>
+                <p data-i18n="vice1989"></p>
+                <p data-i18n="treasure1989"></p>
+                <p data-i18n="sec1989"></p>
             </div>
             <div class="officers-img">
                 <img src="https://i.postimg.cc/QxN6f5gr/chickens-Pumpkin-Patch.avif" alt="">
@@ -138,31 +147,31 @@
                             <p>@pleasantvillagecommunitygarden</p>
                         </div>
                     </div>
-                <h3>Open Hours</h3>
-                <p>Saturday & Sunday ... 1pm - 6pm</p>
+                <h3 data-i18n="open-hours"></h3>
+                <p data-i18n="open-hrs"></p>
             </article>
             <article class="sect2">
-                <h3>Navigation</h3>
+                <h3 data-i18n="nav"></h3>
                 <ul class="footer-nav">
                 <li>
-                    <a href="history.html">History</a>
-                    <a href="garden-photos.html">Photos</a>
-                    <a href="partners.html">Partners & Sponsors</a>
-                    <a href="compost.html">Compost</a>
-                    <a href="membership.html">Membership</a>
+                    <a data-i18n="history" href="history.html"></a>
+                    <a data-i18n="garden-photos" href="garden-photos.html"></a>
+                    <a data-i18n="partners-and-sponsors" href="partners.html"></a>
+                    <a data-i18n="compost" href="compost.html"></a>
+                    <a data-i18n="membership" href="membership.html"></a>
                 </li>
                 </ul>
                 <div class="garden-info-h3">
-                    <h3>Garden Information</h3>
+                    <h3 data-i18n="garden-information"></h3>
                 </div>
                 <ul class="footer-nav">
                     <li>
-                        <a href="events.html">Events</a>
-                        <a href="hours.html">Hours</a>
-                        <a href="rules.html">Garden Rules</a>
-                        <a href="officers.html">Garden Officers</a>
-                        <a href="garden-member-rules-and-requirements.html">Member Rules & Requirements</a>
-                        <a href="garden-member-responsibilities.html">Member Responsibilities</a>
+                        <a data-i18n="events" href="events.html"></a>
+                        <a data-i18n="hours" href="hours.html"></a>
+                        <a data-i18n="garden-rules" href="rules.html"></a>
+                        <a data-i18n="officers" href="officers.html"></a>
+                        <a data-i18n="rules-and-requirements" href="garden-member-rules-and-requirements.html"></a>
+                        <a data-i18n="responsibilities" href="garden-member-responsibilities.html"></a>
                     </li>
                 </ul>
             </article>
@@ -173,6 +182,8 @@
     </div>
 </body>
 </html>
+
+<script src="es-script.js"></script>
 
 <style>
 
