@@ -22,7 +22,52 @@
     "language": "Idioma",
 
     "whats-new": "¿Qué hay de nuevo?",
-    "more-news": "Más noticias"
+    "more-news": "Más noticias",
+    "return-home": "Regreso a Casa",
+    "read-more": "Leer Más",
+
+    "garden-officers": "Oficiales de Jardín",
+    "current": "Actual",
+    "past-garden-officers": "Antiguos Oficiales de Jardines",
+
+    "president-current": "Presidente - Kim Yim (pleasantvillagegarden@gmail.com)",
+    "vice-current": "Vicepresidente - Luis Santiago",
+    "treasure-current": "Tesorero - Gail Felix",
+    "sec-current": "Secretario - Tammy Rodriguez",
+
+    "president2020": "Presidente - Kim Yim",
+    "vice2020": "Vicepresidente - Carlos Melendez",
+    "treasure2020": "Tesorero - Alicia Koledin",
+    "sec2020": "Secretario - Ursula Monaghan",
+
+    "president2017": "Presidente - Chris Johnson",
+    "vice2017": "Vicepresidente - Carlos Melendez",
+    "treasure2017": "Tesorero - Cirilo Dolores",
+    "sec2017": "Secretario - Em Rubey (sustituyó a Liz Chae)",
+
+    "president2014": "Presidente - Katie Benn",
+    "vice2014": "Vicepresidente - Carlos Melendez",
+    "treasure2014": "Tesorero - Nick Baldwin",
+    "sec2014": "Secretario - Carrie Tracy",
+
+    "president2010": "Presidente - Christine Johnson",
+    "vice2010": "Vicepresidente - Carlos Melendez",
+    "treasure2010": "Tesorero - Vanessa Schweitzer (hasta 2013)",
+    "sec2010": "Secretario - Nancy Lee (hasta 2013)",
+
+    "president1989": "Presidente - Margaret McQuillar",
+    "vice1989": "Vicepresidente - Carlos Melendez",
+    "treasure1989": "Tesorero - Mary Young",
+    "sec1989": "Secretario - Nancy Lee",
+
+    "rule1": "No hay mascotas, salvo perros de servicio certificados",
+    "rule2": "Tira la basura",
+    "rule3": "No se puede fumar en el jardín",
+    "rule4": "No hay alcohol en el jardín",
+    "rule5": "Está prohibido extraer productos de las parcelas; Por favor, pregunta a un miembro del jardín si quieres una pieza de fruta de los árboles.",
+    "rule6": "Los huevos valen 3 por $1, o 6 por $2",
+    "rule7": "No recojas las flores",
+    "rule8": "Debe haber un miembro presente durante la visita al jardín. Si un miembro necesita salir del jardín, tiene derecho a pedirte que salgas para que la puerta del jardín pueda cerrarse con llave por motivos de seguridad."
 }
 
 

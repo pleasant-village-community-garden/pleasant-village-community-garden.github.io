@@ -22,5 +22,51 @@
     "language": "Language",
 
     "whats-new": "What's New?",
-    "more-news": "More News"
+    "more-news": "More News",
+    "return-home": "Return Home",
+    "read-more": "Read More",
+
+    "garden-officers": "Garden Officers",
+    "current": "Current",
+    "past-garden-officers": "Past Garden Officers",
+
+    "president-current": "President - Kim Yim (pleasantvillagegarden@gmail.com)",
+    "vice-current": "Vice President - Luis Santiago",
+    "treasure-current": "Treasurer - Gail Felix",
+    "sec-current": "Secretary - Tammy Rodriguez",
+
+    "president2020": "President - Kim Yim",
+    "vice2020": "Vice President - Carlos Melendez",
+    "treasure2020": "Treasurer - Alicia Koledin",
+    "sec2020": "Secretary - Ursula Monaghan",
+
+    "president2017": "President - Chris Johnson",
+    "vice2017": "Vice President - Carlos Melendez",
+    "treasure2017": "Treasurer - Cirilo Dolores",
+    "sec2017": "Secretary - Em Rubey (replaced Liz Chae)",
+
+    "president2014": "President - Katie Benn",
+    "vice2014": "Vice President - Carlos Melendez",
+    "treasure2014": "Treasurer - Nick Baldwin",
+    "sec2014": "Secretary - Carrie Tracy",
+
+    "president2010": "President - Christine Johnson",
+    "vice2010": "Vice President - Carlos Melendez",
+    "treasure2010": "Treasurer - Vanessa Schweitzer (until 2013)",
+    "sec2010": "Secretary - Nancy Lee (until 2013)",
+
+    "president1989": "President - Margaret McQuillar",
+    "vice1989": "Vice President - Carlos Melendez",
+    "treasure1989": "Treasurer - Mary Young",
+    "sec1989": "Secretary - Nancy Lee",
+
+    "rule1": "No pets, except for certified service dogs",
+    "rule2": "Throw away your trash",
+    "rule3": "No smoking in the garden",
+    "rule4": "No alcohol in the garden",
+    "rule5": "Taking produce from plots is prohibited; Please ask a garden member if you would like a piece of fruit from the trees.",
+    "rule6": "Eggs are 3 for $1, or 6 for $2",
+    "rule7": "Do not pick the flowers",
+    "rule8": "A member should be present while visiting the garden. If a member needs to leave the garden, they have the right to ask you to leave so the garden gate can be locked for security purposes."
+
 }
