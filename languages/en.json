@@ -67,6 +67,18 @@
     "rule5": "Taking produce from plots is prohibited; Please ask a garden member if you would like a piece of fruit from the trees.",
     "rule6": "Eggs are 3 for $1, or 6 for $2",
     "rule7": "Do not pick the flowers",
-    "rule8": "A member should be present while visiting the garden. If a member needs to leave the garden, they have the right to ask you to leave so the garden gate can be locked for security purposes."
+    "rule8": "A member should be present while visiting the garden. If a member needs to leave the garden, they have the right to ask you to leave so the garden gate can be locked for security purposes.",
+
+    "partnerships": "Partnerships",
+    "2020-present": "2020 - Present",
+    "grants": "Grants",
+
+    "food-drop-off": "PVCG Food Drop Off Site",
+    "compost-p1": "Our drop off is available all day every day.",
+    "compost-p2": "Please leave organic materials in drop off bins outside the garden for compost team to process. Organic materials are composted in the garden Hotbox designed by New York compost experts. Organic food is also fed to our garden chickens when possible.",
+    "compost-p3": "If you would like to know more about compost or help out contact us at <b>pvcg.compost@gmail.com</b>",
+
+    "membership-application": "Membership Application",
+    "membership-p1": "To apply for garden membership, please fill out the form below!"
 
 }

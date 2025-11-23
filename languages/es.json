@@ -67,7 +67,19 @@
     "rule5": "Está prohibido extraer productos de las parcelas; Por favor, pregunta a un miembro del jardín si quieres una pieza de fruta de los árboles.",
     "rule6": "Los huevos valen 3 por $1, o 6 por $2",
     "rule7": "No recojas las flores",
-    "rule8": "Debe haber un miembro presente durante la visita al jardín. Si un miembro necesita salir del jardín, tiene derecho a pedirte que salgas para que la puerta del jardín pueda cerrarse con llave por motivos de seguridad."
+    "rule8": "Debe haber un miembro presente durante la visita al jardín. Si un miembro necesita salir del jardín, tiene derecho a pedirte que salgas para que la puerta del jardín pueda cerrarse con llave por motivos de seguridad.",
+
+    "partnerships": "Asociaciones",
+    "2020-present": "2020 - Actual",
+    "grants": "Subvenciones",
+
+    "food-drop-off": "PVCG Lugar de Entrega de Comida",
+    "compost-p1": "Nuestro punto de entrega está disponible todo el día, todos los días.",
+    "compost-p2": "Por favor, deje los materiales orgánicos en contenedores fuera del jardín para que el equipo de compostaje los procese. Los materiales orgánicos se compostan en el jardín Hotbox diseñado por expertos en compostaje de Nueva York. También se alimenta orgánicamente a nuestras gallinas del huerto cuando es posible.",
+    "compost-p3": "Si quieres saber más sobre el compost o ayudar, contacta con nosotros en <b>pvcg.compost@gmail.com</b>",
+
+    "membership-application": "Solicitud de Membresía",
+    "membership-p1": "Para solicitar la membresía en el jardín, ¡por favor rellena el formulario de abajo!"
 }
 
 
