@@ -79,7 +79,56 @@
     "compost-p3": "Si quieres saber más sobre el compost o ayudar, contacta con nosotros en <b>pvcg.compost@gmail.com</b>",
 
     "membership-application": "Solicitud de Membresía",
-    "membership-p1": "Para solicitar la membresía en el jardín, ¡por favor rellena el formulario de abajo!"
+    "membership-p1": "Para solicitar la membresía en el jardín, ¡por favor rellena el formulario de abajo!",
+
+    "upcoming-events": "Próximos Eventos",
+    "no-events-atm": "No hay eventos en este momento.",
+
+    "member-responsibilities": "Responsabilidades de los Miembros del Jardín",
+    "responsibilities1": "Todo jardín comunitario necesita la participación de todos sus miembros para mantenerse en buen estado. El Jardín Comunitario Pleasant Village no es una excepción. Les pedimos a los miembros que tengan en cuenta lo siguiente y que no dejen estas responsabilidades en manos de otros:",
+    "responsibilities2": "Basura y materiales reciclables:",
+    "responsibilities3": "Las bolsas de basura y reciclaje deben usarse únicamente para la basura que se genera al limpiar las aceras, la basura que el viento arrastra al jardín o la que se produce durante eventos organizados en el jardín. Toda la demás basura (parrilladas personales, eventos de organizaciones que utilizan el jardín, almuerzos campestres, etc.) debe ser retirada por los propios usuarios. Sin excepciones. Lleve las bolsas de basura y reciclaje llenas a la entrada del jardín, independientemente de quién las haya llenado. Nuestro vicepresidente, Carlos Meléndez, se encargará de que las recojan los camiones de saneamiento. Nuestros trabajadores de saneamiento son excelentes y recogen nuestra basura con gusto. Por favor, asegúrese de que las bolsas de basura no estén demasiado pesadas. Use las bolsas con moderación, ya que cuestan dinero y contribuyen al aumento de residuos sólidos.",
+    "responsibilities4": "Si ven basura fuera o dentro del jardín, junto a los árboles de Pleasant Avenue o cerca de la valla de la calle 119, recójanla y tírenla a la basura, aunque no sea su tarea asignada. En el jardín, todos debemos colaborar por igual.",
+    "responsibilities5": "Barriles de agua:",
+    "responsibilities6": "Llena los barriles de agua cuando estén vacíos.",
+    "responsibilities7": "Asegúrate de cerrar bien el jardín con llave cuando te vayas.",
+    "responsibilities8": "No se permite fumar en el jardín. No se admiten mascotas. Se admiten perros de servicio.",
+    "responsibilities9": "Persona de Contacto:",
+    "responsibilities10": "El jardín cuenta con una persona de contacto para evitar que numerosas personas sin la debida autorización se comuniquen con la organización. Si tiene alguna inquietud y desea contactar a alguien en nombre del jardín, por favor, comuníquese con la presidenta del jardín (Kim – pleasantvillagegarden@gmail.com).",
+    "responsibilities11": "Participe en los eventos del jardín donando tiempo, artículos o fondos. Formamos parte de Green Thumb, del Departamento de Parques y Recreación de la Ciudad de Nueva York. Suscríbase a la lista de correo para recibir información sobre los eventos de Green Thumb: http://www.greenthumbnyc.org/index.php. Si desea ser voluntario en las actividades de Green Thumb, comuníquese con la presidenta del jardín, Kim, a pleasantvillagegarden@gmail.com.",
+
+    "open-hrs1": "Durante el horario de apertura, ¡todo el mundo es bienvenido a visitar el jardín!",
+    "open-hrs2": "El horario de apertura es todos los sábados y domingos de <b>1 a 6</b>, desde principios de abril hasta finales de octubre.",
+
+    "garden-member-requirements": "Requisitos para ser Miembro del Jardín",
+    "gmr1": "Las siguientes normas y responsabilidades son para todos los miembros del jardín. Todos somos voluntarios y pagamos una cuota simbólica de $10 al año para ser miembros del Jardín Comunitario Pleasant Village. Estas responsabilidades son inherentes a la membresía. Si no está seguro de poder cumplir con estas normas y responsabilidades, quizás otros jardines se adapten mejor a sus necesidades.",
+    "gmr2": "1. Las cuotas de membresía deben pagarse en la última reunión de la temporada de jardinería para los miembros que deseen renovar su membresía. Si no paga en ese momento, perderá su parcela ese mismo día y se le asignará a otra persona que esté en lista de espera.",
+    "gmr3": "2. Los miembros son responsables de mantenerse al día sobre las normas del jardín, los horarios de apertura y las fechas y horas de las reuniones del jardín.",
+    "gmr4": "3. Los miembros son responsables de retirar o programar la retirada de objetos voluminosos o materiales reciclables con el Departamento de Saneamiento (DSNY) o llamando al 311 para solicitar recogidas especiales.",
+    "gmr5": "4. No se permiten perros, a menos que sean perros de servicio certificados.",
+    "gmr6": "5. Llévate la basura contigo. Las bolsas de basura y reciclaje son para los residuos y/o materiales reciclables que se retiran del contenedor de compostaje y para la basura que se recoge de la acera o del interior de la valla del jardín.",
+    "gmr7": "6. Los miembros del huerto no podrán ceder ni transferir sus parcelas a otras personas. Los responsables asignarán las parcelas según una lista de espera por orden cronológico.",
+    "gmr8": "7. Se permiten jaulas para jardines con el fin de evitar que las ardillas se lleven los productos de la cosecha. La altura de cualquier estructura no debe superar los 1,7 metros (5,5 pies).",
+    "gmr9": "8. Asegúrate de no bloquear la luz del sol a tus vecinos del jardín. Si parece que estás impidiendo que les llegue la luz del sol, no lo hagas.",
+    "gmr10": "9. Está prohibido fumar en el jardín.",
+    "gmr11": "10. Se asignan las llaves del jardín. No duplique las llaves del jardín.",
+    "gmr12": "11. Los miembros deben dedicar al menos 4 horas a la atención al público, e incluso más en ocasiones, para cubrir el horario de apertura establecido. El jardín debe estar abierto 20 horas a la semana, con 10 horas de atención al público programadas.",
+    "gmr13": "12. Los miembros son responsables de asegurarse de conocer las normas y los estatutos. Una carpeta compartida en Google Drive contiene información relevante para los miembros.",
+    "gmr14": "13. Está prohibido coger productos de otras parcelas (a menos que la persona propietaria te haya dado permiso).",
+    "gmr15": "14. Las herramientas y los materiales de jardinería no deben salir del jardín más allá de la acera (para que puedas quitar la nieve con la pala).",
+    "gmr16": "15. Los huevos están disponibles para su compra por parte de los miembros del jardín y del público en general ($0.25 por unidad, $1.00 por cuatro unidades).",
+    "gmr17": "16. No se pueden coger suministros a menos que un oficial lo autorice e indique la cantidad que se puede coger.",
+    "gmr18": "17. Recoge la basura cuando la veas, aunque no sea tuya.",
+    "gmr19": "18. Riega los árboles cuando lo necesiten.",
+
+    "welcome-to-pvcg": "¡Bienvenidos al Jardín Comunitario de Pleasant Village!",
+    "wtpvcg1": "Pleasant Village Community Garden, Inc.* (PVCG) es un hermoso oasis en East Harlem. Fundado por la difunta Rose M. Gardella entre 1978 y 1982, PVCG se asienta sobre los escombros de varios edificios destruidos por un incendio.",
+    "wtpvcg2": "En 1997, PVCG se convirtió oficialmente en zona verde y pasó a formar parte del Departamento de Parques y Recreación de la ciudad de Nueva York. En 1993, Green Thumb designó a PVCG como sitio de conservación.",
+    "wtpvcg3": "PVCG cuenta con miembros de diversas etnias y edades. Los miembros cuidan sus parcelas individuales, donde cultivan verduras, flores y hierbas aromáticas, así como los jardines comunitarios de hierbas, rosas, frutos del bosque y plantas ornamentales, además de varios árboles frutales (manzano, peral, melocotonero, moral). También nos especializamos en plantar especies autóctonas y plantas que atraen a los polinizadores, proporcionando así un hábitat adecuado para mariposas y abejas.",
+    "wtpvcg4": "PVCG cuenta con el apoyo de Green Thumb y se rige por sus normas. La temporada oficial de actividades de PVCG abarca desde principios de abril hasta finales de octubre, pero también organiza eventos durante los meses de invierno.",
+    "wtpvcg5": "Únete a nosotros como miembro o simplemente para pasar una agradable tarde bajo la rosada sombra de los cerezos en flor. Disfruta del canto de los pájaros que habitan en PVCG y del aroma de las rosas.",
+    "wtpvcg6": "Para ser miembro, participe como voluntario durante un día y asista a una de las tres reuniones anuales. Para obtener más información, póngase en contacto con <b>pleasantvillagegarden@gmail.com</b>.",
+    "wtpvcg7": "*Tenga en cuenta que todas las imágenes pertenecen a PVCG © o a sus miembros. Cualquier imagen del jardín es exclusivamente para uso del jardín o para uso personal, a menos que se obtenga permiso previo contactándonos a la dirección de correo electrónico indicada anteriormente. PVCG forma parte únicamente de NYCPR y Green Thumb. No formamos parte de ninguna otra organización."
 }
 
 
